@@ -111,14 +111,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan..git"
+    "url": "git+https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan./issues"
+    "url": "https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan/issues"
   },
-  "homepage": "https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan.#readme",
+  "homepage": "https://github.com/AnnaMaPe/202301-w1ch2-maxi-gutierrez-anna-marrodan#readme",
   "description": ""
 }
