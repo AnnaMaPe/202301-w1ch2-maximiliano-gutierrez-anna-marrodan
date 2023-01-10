@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "parcel": "^2.8.2"
+    "parcel": "^2.8.2",
+    "rimraf": "^3.0.2"
   },
   "name": "challenge-2",
   "version": "1.0.0",
