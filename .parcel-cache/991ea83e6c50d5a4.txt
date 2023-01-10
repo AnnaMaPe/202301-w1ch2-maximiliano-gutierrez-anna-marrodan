@@ -1,0 +1,11 @@
+10
+135C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\.editorconfig133178476111109439 0
+180C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\dist\202301-w1ch2-maxi-gutierrez-anna-marrodan.59712999.js133178527862805811 0
+132C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\.gitignore133178519214447710 0
+134C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\package.json133178514323167372 0
+126C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\dist133178528017753310 1
+139C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\package-lock.json133178514323167372 0
+125C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\src133178514323167372 1
+136C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\src\index.html133178528017375223 0
+184C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\dist\202301-w1ch2-maxi-gutierrez-anna-marrodan.59712999.js.map133178527862888848 0
+137C:\Users\lascu\Documents\VisualStudioCodeFiles\Bootcamp\Week 1\Second Challenge\202301-w1ch2-maxi-gutierrez-anna-marrodan\dist\index.html133178528017708237 0
